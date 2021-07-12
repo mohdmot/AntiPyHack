@@ -4,3 +4,6 @@
 - Choice One of Scan By Raw Link , Scan By File Or Scan By Command Line
 - And Enter The Scripts To Start Scanning
 ### Screen Shot :
+![](https://raw.githubusercontent.com/Zaky202/AntiPyHack/main/Image2.png)
+.
+![](https://github.com/Zaky202/AntiPyHack/blob/main/Image1.png?raw=true)
