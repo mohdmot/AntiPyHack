@@ -128,7 +128,7 @@ class main () :
    / /\ \ | '_ \| __| |  ___/ | | |  __  |/ _` |/ __| |/ /
   / ____ \| | | | |_| | |   | |_| | |  | | (_| | (__|   < 
  /_/    \_\_| |_|\__|_|_|    \__, |_|  |_|\__,_|\___|_|\_\\
- @zaky1_mohammed              __/ |                       
+ @Zaky                        __/ |                       
                              |___/                      
         ''')
         ScanTybe=input(f'{R}[ {W}*{R} ] {W}A Sample Python Scripts Scanner\n\n{R}[{W}1{R}] {W}Scan By Raw Link\n{R}[{W}2{R}] {W}Scan By File\n{R}[{W}3{R}] {W}Scan By Command Line\n\n{R}[ {W}?{R} ] {W} Select : ').strip()
